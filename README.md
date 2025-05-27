@@ -8,7 +8,7 @@ Note that the language used in FedCM is slightly different from the OAuth termin
 * IdP - short for "Identity Provider", also called "authorization server"
 * RP - short for "Relying Party", known in OAuth as the "client"
 
-## Authorization Servers
+## Authorization Servers to endpoint 
 
 ### FedCM Endpoints
 
